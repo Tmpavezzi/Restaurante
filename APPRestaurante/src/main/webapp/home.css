@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #e9e9e9;
+}
+
+.header {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.banner {
+    width: 100%;
+    height: 500px;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: absolute;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.banner img.active {
+    opacity: 1;
+}
+
+.content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
