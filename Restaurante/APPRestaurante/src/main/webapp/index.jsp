@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -14,6 +15,7 @@
 <input type="Senha" id="Senha" name="Senha" required>
 
 <a href="Cadastrados.jsp" class="button">Cadastrar</a>
+<a href="home.jsp" class="button">Home</a>
 
 
 

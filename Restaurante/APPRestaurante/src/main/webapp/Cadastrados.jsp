@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="br">
 <head>
@@ -7,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="Cadastrados.css">
 </head>
 <body>
-    <form  class="" method="post" action="" >
+    <form  class="" method="post" action="/create-login" >
 
 
         <label for="nome">Nome: </label>
@@ -27,6 +28,7 @@
 
 
         <input type="submit" id="Cadastrar" value="Cadastrar-se">
+
         </form>
         </body>
 
