@@ -9,6 +9,12 @@ public class login {
     private String endereco;
     private String senha;
 
+
+    public login(String email, String senha) {
+        this.email = email;
+        this.senha = senha;
+    }
+
     public login(String nome, String email, String telefone, String endereco, String senha) {
         this.nome = nome;
         this.email = email;

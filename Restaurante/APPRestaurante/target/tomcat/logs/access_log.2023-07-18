@@ -541,3 +541,12 @@
 0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:16:41 -0300] "GET /console/ico_write.gif HTTP/1.1" 304 - http-bio-8080-exec-9 0
 0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:16:41 -0300] "GET /console/ico_add.gif HTTP/1.1" 304 - http-bio-8080-exec-1 0
 0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:16:41 -0300] "GET /console/ico_remove.gif HTTP/1.1" 304 - http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:46 -0300] "GET / HTTP/1.1" 200 552 http-bio-8080-exec-1 38
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /home.jsp HTTP/1.1" 200 1689 http-bio-8080-exec-3 5
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /prato1.jpg HTTP/1.1" 304 - http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /home.css HTTP/1.1" 304 - http-bio-8080-exec-2 2
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /prato2.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /prato3.jpg HTTP/1.1" 304 - http-bio-8080-exec-6 2
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:26:47 -0300] "GET /prato4.jpg HTTP/1.1" 304 - http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:27:38 -0300] "GET /Cadastrados.jsp HTTP/1.1" 200 1074 http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [18/Jul/2023:22:27:51 -0300] "GET /home.jsp HTTP/1.1" 200 1689 http-bio-8080-exec-10 3
