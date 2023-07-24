@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:16:38 -0300] "GET / HTTP/1.1" 200 552 http-bio-8080-exec-1 42
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:16:38 -0300] "GET /login.css HTTP/1.1" 304 - http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:16:38 -0300] "GET /planodefundo.jpg HTTP/1.1" 304 - http-bio-8080-exec-4 2
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:16:38 -0300] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-5 0
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:10 -0300] "GET /Cadastrados.jsp HTTP/1.1" 200 1061 http-bio-8080-exec-7 782
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:10 -0300] "GET /Cadastrados.css HTTP/1.1" 304 - http-bio-8080-exec-9 5
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /home.jsp HTTP/1.1" 200 1689 http-bio-8080-exec-10 8
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /home.css HTTP/1.1" 304 - http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /prato1.jpg HTTP/1.1" 304 - http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /prato2.jpg HTTP/1.1" 304 - http-bio-8080-exec-8 7
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /prato3.jpg HTTP/1.1" 304 - http-bio-8080-exec-10 7
+0:0:0:0:0:0:0:1 - - [17/Jul/2023:11:20:17 -0300] "GET /prato4.jpg HTTP/1.1" 304 - http-bio-8080-exec-5 7
