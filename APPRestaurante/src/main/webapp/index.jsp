@@ -20,7 +20,7 @@
 <input type="text" id="password" name="password">
 
 <a href="Cadastrados.jsp" class="button">Cadastrar</a>
-<a href="home.jsp" class="button">Home</a>
+
 
 
 <input type="submit" id="Cadastrar" value="Cadastrar-se">
