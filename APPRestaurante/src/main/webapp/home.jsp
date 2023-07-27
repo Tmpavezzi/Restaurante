@@ -32,7 +32,7 @@
       <nav>
         <ul>
           <li><span class="underline"><a href="home.jsp">Home</a></span></li>
-          <li><span class="underline"><a href="#">Cardápio</a></span></li>
+          <li><span class="underline"><a href="cardapio.html">Cardápio</a></span></li>
           <li><span class="underline"><a href="sobre.jsp">Sobre Nós</a></span></li>
         </ul>
       </nav>
