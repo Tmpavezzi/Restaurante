@@ -3,8 +3,11 @@
   <html>
 
   <head>
-    <title>Página Home</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="home.css">
+    <link rel="stylesheet" type="text/css" href="header.css">
+    <title>Página Home</title>
 
     <script>
       document.addEventListener("DOMContentLoaded", function () {
@@ -22,14 +25,23 @@
   </head>
 
   <body>
-
-    <div class="header">
-
-                <div class="user">
-                    <span class="underline"><a href="login.jsp">Entrar</a></span>
-                    <span class="underline"><a href="cadastroCliente.jsp">Cadastrar-se</a></span>
-                </div>
-    </div>
+    <header>
+      <div class="logo">
+        <img src="restaurante.png" width="85px" alt="Logo da empresa">
+      </div>
+      <nav>
+        <ul>
+          <li><span class="underline"><a href="home.jsp">Home</a></span></li>
+          <li><span class="underline"><a href="#">Cardápio</a></span></li>
+          <li><span class="underline"><a href="sobre.jsp">Sobre Nós</a></span></li>
+        </ul>
+      </nav>
+      <div class="user">
+        <span class="underline"><a href="login.jsp">Entrar</a></span>
+        <span class="underline"><a href="cadastroCliente.jsp">Cadastrar-se</a></span>
+      </div>
+      </div>
+    </header>
 
     <div class="banner">
       <img src="prato1.jpg" alt="Imagem 1" class="active">
