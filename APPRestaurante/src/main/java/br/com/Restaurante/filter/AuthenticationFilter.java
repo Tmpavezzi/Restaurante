@@ -20,7 +20,7 @@ public class AuthenticationFilter implements Filter {
 
             servletRequest.setAttribute("message", "User not authenticated!");
 
-            servletRequest.getRequestDispatcher("/index.jsp").forward(httpServletRequest, servletResponse);
+            servletRequest.getRequestDispatcher("login.jsp").forward(httpServletRequest, servletResponse);
 
         } else {
 

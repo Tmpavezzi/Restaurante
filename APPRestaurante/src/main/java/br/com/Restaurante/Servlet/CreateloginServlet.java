@@ -26,7 +26,7 @@ public class CreateloginServlet extends HttpServlet{
 
 
 
-        request.getRequestDispatcher("Cadastrados.jsp").forward(request,response);
+        request.getRequestDispatcher("cadastroCliente.jsp").forward(request,response);
 
 
     }

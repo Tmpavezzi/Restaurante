@@ -18,7 +18,7 @@ nav ul {
 }
 
 nav ul li {
-    margin-right: 30px;
+    margin-right: 100px;
 }
 
 .underline {
@@ -27,10 +27,10 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: white;
+    color: green;
     border-radius: 2px;
-    margin-left: 5px;
-    margin-right: 20px;
+    margin-left: 500px;
+    margin-right: 200px;
     transition-duration: .5s;
 }
 

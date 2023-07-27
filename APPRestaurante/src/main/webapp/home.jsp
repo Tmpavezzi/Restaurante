@@ -5,6 +5,7 @@
   <head>
     <title>Página Home</title>
     <link rel="stylesheet" type="text/css" href="home.css">
+
     <script>
       document.addEventListener("DOMContentLoaded", function () {
         const bannerImages = document.querySelectorAll(".banner img");
@@ -21,9 +22,13 @@
   </head>
 
   <body>
+
     <div class="header">
-      <h1>Restaurante Pavezzi</h1>
-      <p>Saboreie os melhores pratos da Culinária Brasileira</p>
+
+                <div class="user">
+                    <span class="underline"><a href="login.jsp">Entrar</a></span>
+                    <span class="underline"><a href="cadastroCliente.jsp">Cadastrar-se</a></span>
+                </div>
     </div>
 
     <div class="banner">

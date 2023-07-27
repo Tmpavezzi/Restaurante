@@ -6,11 +6,26 @@ body {
 }
 
 .header {
+       display:flex;
+       display:row;
+    flex-direction: row;
     background-color: black;
     padding: 20px;
     text-align: center;
-    color: white;
+    color: black;
 }
+.user{
+     flex-direction: row
+     justify-content: space-between;
+     align-items: center;
+     margin: 0;
+     background-color: black;
+     padding: 20px;
+     text-align: center;
+     color: black;
+
+}
+
 
 .banner {
     width: 100%;
@@ -44,3 +59,20 @@ body {
     text-align: center;
     color: white;
 }
+
+.logo {
+    width: 90px;
+    height: auto;
+}
+
+
+.test{
+     right:100;
+    flex-direction: row;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+
+}
+

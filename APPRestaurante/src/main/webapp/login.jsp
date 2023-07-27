@@ -19,11 +19,8 @@
 <label for="password">Senha:</label>
 <input type="text" id="password" name="password">
 
-<a href="Cadastrados.jsp" class="button">Cadastrar</a>
 
-
-
-<input type="submit" id="Cadastrar" value="Cadastrar-se">
+<input type="submit" id="Entrar" value="Entrar">
 </form>
 </body>
 </html>
